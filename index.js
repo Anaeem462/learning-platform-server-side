@@ -5,6 +5,9 @@ const Port = process.env.Port || 5000;
 app.use(cors());
 
 const category = require("./Data/Category.json");
+app.get("/", (req, res) => {
+  res.send(category);
+});
 app.get("/category", (req, res) => {
   res.send(category);
 });
