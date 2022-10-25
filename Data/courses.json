@@ -1,0 +1,104 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "1",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Hyper Text Markup Language (Html)",
+    "thumbnail_url": "https://banner2.cleanpng.com/20180524/ctj/kisspng-html5-video-mobile-app-development-web-application-5b074573e4bab6.9560649215272031879369.jpg",
+    "image_url": "https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png",
+    "details": "HTML is the standard markup language for creating Web pages.This describes the structure of a Web page.That consists of a series of elements. HTML elements tell the browser how to display the content."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "2",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Cascading Stylesheet ",
+    "thumbnail_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png",
+    "details": "CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting."
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "3",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "total_view": 400,
+    "title": "Javascript Programming Language",
+    "thumbnail_url": "https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+    "details": "JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard. It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM)."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "4",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "total_view": 400,
+    "title": "Python Programming Language",
+    "thumbnail_url": "https://logicoretech.com/wp-content/uploads/2022/05/Python-Symbol.png",
+    "image_url": "https://prepinsta.com/wp-content/uploads/2020/07/python-removebg-preview.webp",
+    "details": "Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a batteries included language due to its comprehensive standard library. Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python."
+  },
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "5",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "C++ programming language",
+
+    "thumbnail_url": "https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
+    "details": "C++ was designed with systems programming and embedded, resource-constrained software and large systems in mind, with performance, efficiency, and flexibility of use as its design highlights. C++ has also been found useful in many other contexts, with key strengths being software infrastructure and resource-constrained applications including desktop applications, video games, servers ( e-commerce, web search, or databases), and performance-critical applications (telephone switches or space probes)."
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "6",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "Java programming language",
+    "thumbnail_url": "https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg",
+    "image_url": "https://rosamarfil.es/tutoriales/wp-content/uploads/2019/08/java-logo-png.png",
+    "details": "ava is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA),meaning that compiled Java code can run on all platforms that support Java without the need to recompile. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but has fewer low-level facilities than either of them. The Java runtime provides dynamic capabilities (such as reflection and runtime code modification) that are typically not available in traditional compiled languages. As of 2019, Java was one of the most popular programming languages in use according to GitHub, particularly for client–server web applications, with a reported 9 million developers."
+  },
+
+  {
+    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "7",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": null,
+    "title": "React (javascript Library)",
+    "thumbnail_url": "https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png",
+    "image_url": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png",
+    "details": "React is a free and open-source front-end JavaScript libraryfor building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality."
+  }
+]
